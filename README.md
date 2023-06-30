@@ -1,6 +1,8 @@
 # demo
 This a demo project...
-Prabhat
-Deepika
+Prabhat:
+
+Deepika:
+
 Puspadip
 Navnw
